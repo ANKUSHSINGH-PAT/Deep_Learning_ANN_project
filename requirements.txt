@@ -4,4 +4,5 @@ tensorflow
 streamlit
 scikit-learn
 tensorboard
+scikeras
 flask
