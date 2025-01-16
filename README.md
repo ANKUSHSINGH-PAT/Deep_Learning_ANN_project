@@ -14,3 +14,10 @@ Trained an Artificial Neural Network model with optimized hyperparameters using 
 Developed a user-friendly web application using Streamlit to allow users to input customer data and receive real-time churn predictions.
 
 
+Acheived a accuracy score of  87.53
+
+
+![image](https://github.com/user-attachments/assets/d01e1b85-c99c-4bba-8b04-fa28941baf8f)
+
+
+
